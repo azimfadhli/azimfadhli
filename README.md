@@ -20,9 +20,9 @@ Hello! I'm [Your Name], a Mechanical Engineering undergraduate based in [Your Lo
 - **Repository Link**: [Link to the project repository]
 
 ## Skills
-- **Programming Languages**: C, C++, Arduino IDE, ESP32, ESP8266
-- **Frameworks and Libraries**: [List of frameworks and libraries]
-- **Tools and Platforms**: [List of tools and platforms]
+- **Programming Languages**: C, C++
+- **Frameworks and Libraries**: Arduino
+- **Tools and Platforms**: Arduino IDE, PlatformIO
 - **Other Skills**: Mechatronics, IoT, Robotics, CAD Design, CFD
 
 ## Contact Information
