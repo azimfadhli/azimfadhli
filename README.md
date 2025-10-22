@@ -1,18 +1,89 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExandhd2VyMWNneG1hOXVyNWFzazI4cjh5a2ZkOGcxZWsyMXE0eHlvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EVtR4sOgKAE5w15SWa/giphy.gif" width="400" />
+</div>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ASDAA12E1) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LMCE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azimfadhlii) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/afm006) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lnfectedhorde) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/meinmokhtar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@you) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat&logo=solid&logoColor=c8c9cb) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azimfadhli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=azimfadhli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azimfadhli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi there, I'm Azim👋</h1>
+<h3 align="center">An Automation & IoT Engineer specializing in embedded systems and cloud integration.</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=azimfadhli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+I'm an IoT developer with a foundation in **Mechanical Engineering (Honours)** from **Universiti Kebangsaan Malaysia (UKM)**. My passion lies at the intersection of hardware and software, where I enjoy building efficient, real-world solutions.
+
+I am an active developer in the **ThingsSentral** ecosystem, an innovative IoT cloud platform developed at UKM. My work focuses on creating robust frameworks, libraries, and tools that empower developers to build and scale their IoT projects seamlessly.
+
+- 🔭 I’m currently focused on enhancing the developer toolchain for the **ThingsSentral IoT platform**.
+- 🌱 I’m currently exploring **low-power device optimization and edge computing**.
+- 👯 I’m looking to collaborate on **open-source projects related to ESP32/ESP8266 and IoT connectivity**.
+- 📫 How to reach me: **[az188@ts.com]**
+
+---
+
+### 🛠️ My Tech Stack
+
+My toolbox includes a range of technologies for building end-to-end IoT solutions:
+
+<p align="left">
+  <strong>Languages & Frameworks:</strong><br>
+  <a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+  <a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>
+  <a href="https://www.json.org/json-en.html"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"></a>
+</p>
+<p align="left">
+  <strong>Hardware & Platforms:</strong><br>
+  <a href="https://www.espressif.com/en/products/socs/esp32"><img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7332A?style=for-the-badge&logo=espressif&logoColor=white"></a>
+  <a href="https://www.espressif.com/en/products/socs/esp8266"><img alt="ESP8266" src="https://img.shields.io/badge/ESP8266-E7332A?style=for-the-badge&logo=espressif&logoColor=white"></a>
+  <a href="https://www.thingssentral.my/"><img alt="ThingsSentral" src="https://img.shields.io/badge/ThingsSentral-1E90FF?style=for-the-badge&logo=icloud&logoColor=white"></a>
+</p>
+<p align="left">
+  <strong>Tools & Protocols:</strong><br>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="HTTP" src="https://img.shields.io/badge/HTTP-005C9A?style=for-the-badge&logo=httpie&logoColor=white"></a>
+  <a href="#"><img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"></a>
+</p>
+
+---
+
+### 🚀 My Projects & Libraries
+
+Here are some of the key projects and libraries I have developed:
+
+#### Featured Projects
+- **Gateway-Node Framework** `[Link to Repo]`
+  - A comprehensive framework to simplify development on ThingsSentral nodes using ESP32/ESP8266 boards with the Arduino IDE, reducing boilerplate and accelerating development time.
+
+- **ThingsSentral Training Modules** `[Link to Repo]`
+  - A complete set of modules and guides to help developers onboard with the ThingsSentral platform, covering everything from initial node setup to advanced data transmission and visualization techniques.
+
+#### Key Libraries
+- **ThingsSentralBulk Library** `[Link to Repo]`
+  - A lightweight, efficient library for sending large volumes of batched sensor readings to ThingsSentral from ESP32 & ESP8266 devices. Features automatic timestamping and highly optimized memory management.
+
+- **ThingsSentralBatch Library** `[Link to Repo]`
+  - An Arduino library focused on network efficiency. It simplifies collecting multiple data points and sending them in a single HTTP request, significantly reducing bandwidth and server load.
+
+- **ESP32 ConfigPortal Library** `[Link to Repo]`
+  - A powerful, schema-driven configuration portal for ESP32/ESP8266. It provides a responsive web UI to manage device settings in real time, with configurations defined in a simple JSON schema and persistently stored on the device using LittleFS.
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abimaelmartell&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Abu Zaza's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimaelmartell&layout=compact&theme=dracula&hide_border=true" alt="Abu Zaza's Top Languages">
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/azimfadhli/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  </p>
+
+  <div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd205dTZucm90dmxwbGNxbDJ4bGUwMWhrOWhyaHNmbDhvb2U5YmJicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vCUASy92YURGHFrnqP/giphy.gif" width="400" />
+</div>
